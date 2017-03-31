@@ -1,0 +1,8 @@
+br\ifes\leticia\CalculadoraPolonesaBDD\app\App.class
+br\ifes\leticia\CalculadoraPolonesaBDD\model\Calculadora.class
+br\ifes\leticia\CalculadoraPolonesaBDD\model\Subtracao.class
+br\ifes\leticia\CalculadoraPolonesaBDD\control\ElevaExpressao.class
+br\ifes\leticia\CalculadoraPolonesaBDD\control\Expressao.class
+br\ifes\leticia\CalculadoraPolonesaBDD\model\Adicao.class
+br\ifes\leticia\CalculadoraPolonesaBDD\model\Divisao.class
+br\ifes\leticia\CalculadoraPolonesaBDD\model\Multiplicacao.class
